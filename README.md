@@ -3,7 +3,7 @@
 ## Installation
 
 ```sh
-$ git clone https://github.com/Team-of-Four/fitness-hub.git
+$ git clone https://github.com/khalidfarooq/React-RestApi-Django-To-Do
 $ cd fitness-hub-main
 $ python3 -m venv env
 $ source env/bin/activate
